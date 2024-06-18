@@ -5,6 +5,8 @@ Este es un mini sitio de noticias desarrollado en PHP 8.0 con Programación Orie
 ## Características
 
 - **Paginador**: Navegación simple y eficiente entre diferentes páginas de noticias.
+- **Listado de Noticias**: Visualización de todas las noticias en la página principal.
+- **Ver Noticia Específica**: Posibilidad de hacer clic en una noticia para verla en detalle.
 - **Panel de Administración**:
   - CRUD de imágenes: Crear, Leer, Actualizar y Eliminar imágenes fácilmente.
 - **Composer**:
